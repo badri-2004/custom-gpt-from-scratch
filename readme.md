@@ -9,7 +9,6 @@
 - [Code Structure](#code-structure)
 - [Training Details](#training-details)
 - [Installation Requirements](#installation-requirements)
-- [Final Remarks](#final-remarks)
 
 ---
 
