@@ -9,7 +9,6 @@
 - [Code Structure](#code-structure)
 - [Training Details](#training-details)
 - [Installation Requirements](#installation-requirements)
-- [Training Time Estimation](#training-time-estimation)
 - [Final Remarks](#final-remarks)
 
 ---
@@ -56,7 +55,7 @@ This structure closely follows the original GPT design principles.
 
 ## Training Details
 
-- **Dataset**: A toy character-level dataset has been used for demonstration purposes.
+- **Dataset**: A toy character-level dataset (The Adventures of Sherlock Holmes) has been used for demonstration purposes.
 - **Model Size**: Approximately 10 million parameters.
 - **Hardware**: T4 GPU (Colab environment).
 - **Training Method**:  
